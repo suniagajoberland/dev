@@ -18,11 +18,13 @@ nav a{
 }
 
 .header{
-    height: 368px;
-    width: 100vh;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
 }
 
 .hero{
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbxAw6qzV_H-cnvflT1liQQMhfuxTxKZ69w&usqp=CAU);
-
+    height: 400px;
 }
