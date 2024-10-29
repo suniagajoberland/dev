@@ -18,7 +18,11 @@ nav a{
 }
 
 .header{
-    height: 400px;
+    height: 368px;
     width: 100vh;
-    background-color: #1e1e1e;
+}
+
+.hero{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbxAw6qzV_H-cnvflT1liQQMhfuxTxKZ69w&usqp=CAU);
+
 }
