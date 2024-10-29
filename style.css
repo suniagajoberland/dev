@@ -10,7 +10,7 @@ nav{
     justify-content: space-around;
 }
 
-nav a{
+nav menu a{
     display: flex;
     justify-content: space-around;
     text-decoration: none;
