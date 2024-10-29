@@ -9,3 +9,8 @@ nav{
     display: flex;
     justify-content: space-around;
 }
+
+nav ul li {
+    display: flex;
+    justify-content: space-around;
+}
