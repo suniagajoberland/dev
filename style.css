@@ -16,3 +16,9 @@ nav a{
     text-decoration: none;
     padding: 20px;
 }
+
+.header{
+    height: 400px;
+    width: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+}
